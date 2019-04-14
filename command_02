@@ -1,0 +1,11 @@
+#command 02
+# first install Docker
+# docker run --rm -it image and interactive shell
+# docker run --rm -it -v `pwd`: directory
+# -v para gregar volumen
+# to get alias for bash https://github.com/chrishwiggins/mise/blob/master/sh/aliases-public.sh
+# seq 100 | grep 3 | wc -l
+# seq 10 > data/ten-numbers, escribir
+# seq 3 >> data/ten-numbers, agregar
+## Directory
+# cp, rm, vm, -v:salida and -i:interactive
